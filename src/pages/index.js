@@ -32,6 +32,15 @@ export default () => {
           </a>
         </div>
 
+        <div className="mx-auto">
+          <a
+            href="https://www.rezac.dev/server/continous-deployment-of-a-gatsby-site-to-cpanel-with-git-version-control"
+            className="p-4 bg-teal-500 text-white text-xs rounded shadow hover:bg-teal-800"
+          >
+            Deploy on Cpanel
+          </a>
+        </div>
+
         <div className="flex items-center p-3 mx-2 bg-white rounded shadow-xs sm:mx-auto">
           <code className="text-gray-600 text-xs leading-xl">
             gatsby new my-project-name
