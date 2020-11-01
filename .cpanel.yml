@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/cranewif/rezac.dev/
+    - export DEPLOYPATH=/home/cranewif/demos.rezac.dev/gatsby-cpanel-deploy
     - /bin/cp -R public/* $DEPLOYPATH
