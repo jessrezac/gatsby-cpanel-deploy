@@ -37,3 +37,5 @@ gatsby develop
 ```
 
 Now you'll be all set to go ahead and create your Gatsby site with Tailwind CSS!
+
+# gatsby-cpanel-deploy
